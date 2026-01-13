@@ -18,7 +18,7 @@ This is a simple and most used markdown template file.
 
 ## 2. ✅ Sentence and Line Break:
 
-✅ Line Break With Spacing:
+✅ Line Break With Spacing: ( 2 Spaces )
 
 This is first line  
 this is second line
@@ -35,7 +35,7 @@ This is first line <br> This is second line
 4. Strikethrough text => ~~This is Strikethrough~~
 5. Subscript => H<sub>2</sub>O
 6. Superscript => a<sup>2</sup> \* b<sup>5</sup>
-7. Highlight => <mark>Highlighted text</mark>
+7. Highlight => <mark>Highlighted text</mark> ( == )
 
 ## 4. ✅ Lists:
 
